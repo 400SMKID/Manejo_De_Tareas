@@ -277,3 +277,16 @@ E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\bin\Debug\net8.0\Microsoft.E
 E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
 E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\scopedcss\projectbundle\TareasMVC.bundle.scp.css
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.sourcelink.json
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\bin\Debug\net8.0\en\TareasMVC.resources.dll
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.Controllers.HomeController.en.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.csproj.GenerateResource.cache
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\en\TareasMVC.resources.dll
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.Views.Home.Index.en.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\bin\Debug\net8.0\es\TareasMVC.resources.dll
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.RecursoCompartido.en.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.RecursoCompartido.es.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.Views.Home.Index.es.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\es\TareasMVC.resources.dll
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.en.resources
+E:\Users\400Sm_Kid\source\repos\TareasMVC\TareasMVC\obj\Debug\net8.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.es.resources

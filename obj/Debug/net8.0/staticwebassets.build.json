@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+EGi65s45gNzPHclQq1eXDkFWr9y3PYBrwPGdLRx5hc=",
+  "Hash": "am2GoAk2nd1i2u97neauu7L1+5C4XTb/F+nZleIS1BU=",
   "Source": "TareasMVC",
   "BasePath": "_content/TareasMVC",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "E:\\Users\\400Sm_Kid\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Users\\400Sm_Kid\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "js/utilidades.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\utilidades.js"
     },
     {
       "Identity": "E:\\Users\\400Sm_Kid\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

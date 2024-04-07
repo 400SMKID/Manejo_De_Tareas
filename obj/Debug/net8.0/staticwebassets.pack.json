@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "E:\\Users\\400Sm_Kid\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "PackagePath": "staticwebassets\\js\\utilidades.js"
+    },
+    {
       "Id": "E:\\Users\\400Sm_Kid\\source\\repos\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
